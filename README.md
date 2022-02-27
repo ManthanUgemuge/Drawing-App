@@ -1,5 +1,5 @@
 # DrawingApp
-A Simple Drawing Application which can be used as white board.
+A Simple Drawing Application which can be used as White Board.
 
 ## Tech Stacks Used :
 
