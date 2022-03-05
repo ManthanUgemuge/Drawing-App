@@ -1,5 +1,5 @@
 # DrawingApp
-A Simple Drawing Application which can be used as White Board. 
+A Simple Drawing Application that can be used as White Board. 
 <br/>
 It can be used as canvas or paint for illustrating further.
 
