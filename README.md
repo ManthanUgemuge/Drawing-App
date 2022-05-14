@@ -16,7 +16,7 @@ It can be used as canvas or paint for illustrating further.
 ```
 https://github.com/ManthanUgemuge/DrawingApp.git
 ```
-Run Directly here - [Live](https://manthanugemuge.github.io/DrawingApp/)//Download()
+Run Directly here - [Live](https://manthanugemuge.github.io/DrawingApp/)//[Download](https://github.com/ManthanUgemuge/DrawingApp/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
