@@ -1,9 +1,10 @@
-# DrawingApp
+# Drawing App
 A Simple Drawing Application that can be used as White Board. 
 <br/>
-It can be used as canvas or paint for illustrating further.
+It can be used as canvas or paint for illustration. 
 
 ## About Project
+Drawing Application 
 
 ## Tech Stacks Used :
 
