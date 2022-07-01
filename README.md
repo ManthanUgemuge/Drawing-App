@@ -4,7 +4,7 @@ A Simple Drawing Application that can be used as White Board.
 It can be used as canvas or paint for illustration. 
 
 ## About Project
-Drawing Application 
+Drawing Application made using HTML, CSS & JavaScript. 
 
 ## Tech Stacks Used :
 
