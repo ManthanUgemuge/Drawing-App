@@ -24,4 +24,4 @@ Run Directly here - [Live](https://manthanugemuge.github.io/DrawingApp/)//[Downl
 Pull requests are welcome, feel free to ```fork``` this repo.
 
 ## License
-This project is open-sourced under the 
+This project is open-sourced under the [MIT license]().
