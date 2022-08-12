@@ -1,12 +1,13 @@
 # Drawing App
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg).
 
+
+
+## About Project
+Drawing Web Application made using HTML, CSS & JavaScript.
 A Simple Drawing Application that can be used as White Board. 
 <br/>
 It can be used as canvas or paint for illustration. 
-
-## About Project
-Drawing Web Application made using HTML, CSS & JavaScript. 
 
 ## Tech Stacks Used :
 
