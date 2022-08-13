@@ -1,7 +1,6 @@
 # Drawing App
 Drawing Web Application made using HTML, CSS & JavaScript.
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg).
 
 
 
