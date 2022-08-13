@@ -1,9 +1,6 @@
 # Drawing App
 Drawing Web Application made using HTML, CSS & JavaScript.
 
-
-
-
 ## About Project
 
 A Simple Drawing Application that can be used as White Board. 
