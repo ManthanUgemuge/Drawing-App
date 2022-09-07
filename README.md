@@ -19,8 +19,11 @@ It can be used as canvas or paint for illustration.
 https://github.com/ManthanUgemuge/Drawing-App.git
 ```
 Run Directly here - 
-[Live](https://manthanugemuge.github.io/Drawing-App/)//
-[Download](https://github.com/ManthanUgemuge/Drawing-App/archive/refs/heads/main.zip)
+[Live]()//
+[Download]()
+
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://manthanugemuge.github.io/Drawing-App/) 
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://github.com/ManthanUgemuge/Drawing-App/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
