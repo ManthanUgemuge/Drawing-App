@@ -18,8 +18,8 @@ It can be used as canvas or paint for illustration.
 ```
 https://github.com/manthanugemuge/drawing-app.git
 ```
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ManthanUgemuge/Drawing-App/archive/refs/heads/main.zip)
-[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/Drawing-App/) 
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/manthanugemuge/drawing-app/archive/refs/heads/main.zip)
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/drawing-app/) 
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
